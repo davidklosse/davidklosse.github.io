@@ -1,0 +1,26 @@
+body {
+	font-family: 'Courgette', cursive;
+}
+body {
+ background-image: url("maxresdefault.jpg");
+ background-color: black;
+ height: 140px;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ color: Cyan	;
+}
+p {
+  text-align: center;
+  font-size: 20px;
+  margin: 20px 0 20px 0;
+	color: Cyan;
+}
+h1 {
+	 color: Cyan;
+}
+ul {
+	width: 100px;
+	color: White;
+	background-color: Cyan;
+}
